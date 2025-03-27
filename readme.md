@@ -121,7 +121,6 @@ CHILD_SAFE_RECOGNITION_BASIC/
 │   │-- embeddings/
 │   │-- images/
 │   │-- test_images/
-│   └-- faceenv/
 │-- config.py
 │-- database.py
 │-- embeddings.py
